@@ -1,0 +1,9 @@
+void Console();
+void OverConsole();
+void UnderConsole();
+void ConsoleCls();
+void OverConsoleCls();
+void UnderConsoleCls();
+void HalfConsole();
+void OddConsole();
+void EvenConsole();
